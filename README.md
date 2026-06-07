@@ -3,7 +3,9 @@ Sistema Inteligente de Monitoramento Espacial
 Integrantes:
 
 Tiago Muhlmann - RM 569569
+
 Otávio Mancilia - RM 570225
+
 Wesley Marques - RM 573915
 
 Descrição:
