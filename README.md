@@ -38,4 +38,4 @@ Desenvolver uma solução computacional capaz de monitorar sistemas energéticos
 
 Vídeo de Demonstração
 
-Link:
+Link: https://youtu.be/BymWZc4srwM
